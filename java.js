@@ -16,7 +16,7 @@ console.log(getFileName("styles"));*/
 }
 console.log(calculateTotal(3));
 */
-function calculateEvenTotal(number) {
+/*function calculateEvenTotal(number) {
   let sum = 0;
   for (let counter = 0; counter <= number; counter += 1) {
     counter++;
@@ -24,4 +24,4 @@ function calculateEvenTotal(number) {
   }
   return sum;
 }
-console.log(calculateEvenTotal(6));
+console.log(calculateEvenTotal(6));*/
