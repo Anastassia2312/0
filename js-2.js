@@ -12,7 +12,7 @@ console.log(getEvenNumbers(3, 3));
 
 console.log(getEvenNumbers(3, 12));*/
 
-function checkStorage(storage, item) {
+/*function checkStorage(storage, item) {
   const itemToLowerCase = item.toLowerCase();
   if (storage.includes(itemToLowerCase)) {
     return `${itemToLowerCase} is available to order!`;
@@ -21,4 +21,4 @@ function checkStorage(storage, item) {
   }
 }
 
-console.log(checkStorage(["apple", "plum", "pear"], "pLuM"));
+console.log(checkStorage(["apple", "plum", "pear"], "pLuM"));*/
