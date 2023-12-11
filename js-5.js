@@ -1,4 +1,4 @@
-"use strict";
+/*"use strict";
 function add(a, b) {
   return a + b;
 }
@@ -8,4 +8,4 @@ function func(a, b, callback) {
   return callback(a, b);
 }
 
-console.log(func(4, 6, add));
+console.log(func(4, 6, add));*/

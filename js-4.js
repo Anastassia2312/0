@@ -14,7 +14,7 @@ console.log(myInfo);*/
 /*Створіть об'єкт, який представляє собою товар (назва, ціна, кількість на складі).
  Реалізуйте функції для збільшення та зменшення кількості товару на складі.*/
 
-const product = {
+/*const product = {
   name: "grapes",
   price: 100,
   quantity: 50,
@@ -32,4 +32,4 @@ function subtractQuantity(additionalQuantity) {
   }
 }
 addQuantity(20);
-console.log(product.quantity);
+console.log(product.quantity);*/
